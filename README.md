@@ -54,6 +54,7 @@ You can install it [here!](https://chrome.google.com/webstore/detail/the-free-in
 * nytimes.com
 * ocregister.com
 * politico.com
+* reuters.com
 * scientificamerican.com
 * seattletimes.com
 * seekingalpha.com
